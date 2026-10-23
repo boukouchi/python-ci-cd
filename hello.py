@@ -22,8 +22,10 @@ def permutation(n1, n2, n3):
     """
     return n2, n3, n1
 
-print("Hello")
+
 # Programme principal
+print("Hello")
+
 a = 10
 b = 30
 c = 90
