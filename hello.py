@@ -22,6 +22,7 @@ def permutation(n1, n2, n3):
     """
     return n2, n3, n1
 
+print("Hello")
 
 # Programme principal
 a = 10
