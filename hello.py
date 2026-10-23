@@ -33,4 +33,3 @@ print(f"\nAvant permutation : a={a}, b={b}, c={c}")
 a, b, c = permutation(a, b, c)
 
 print(f"Après permutation : a={a}, b={b}, c={c}")
-
