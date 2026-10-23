@@ -8,7 +8,7 @@ c prend la valeur de a
 """
 
 
-def permutation(a, b, c):
+def permutation(n1, n2, n3):
     """
     Effectue une permutation circulaire de trois nombres.
 
@@ -20,7 +20,7 @@ def permutation(a, b, c):
     Returns:
         tuple: Les trois nombres après permutation.
     """
-    return b, c, a
+    return n2, n3, n1
 
 
 # Programme principal
